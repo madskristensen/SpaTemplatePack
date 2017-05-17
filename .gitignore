@@ -3,6 +3,7 @@ packages
 # User files
 *.suo
 *.user
+*.nupkg
 *.sln.docstates
 .vs/
 

@@ -4,7 +4,9 @@
         <Identity Id="4336beed-a389-4f86-9138-40d258e78ccf" Version="1.0" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>ASP.NET Core SPA Templates</DisplayName>
         <Description xml:space="preserve">A template pack containing ASP.NET Core SPA templates for Angular, React, Knockout and Vue.js.</Description>
+        <MoreInfo>https://github.com/madskristensen/SpaTemplatePack</MoreInfo>
         <License>Resources\LICENSE</License>
+        <ReleaseNotes>https://github.com/madskristensen/SpaTemplatePack/blob/master/CHANGELOG.md</ReleaseNotes>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
         <Tags>angular, react, knockout, vue, redux</Tags>
