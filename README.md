@@ -8,7 +8,7 @@ or get the [CI build](http://vsixgallery.com/extension/4336beed-a389-4f86-9138-4
 
 ---------------------------------------
 
-A template pack containing ASP.NET Core SPA templates for Angular, Aurelia, React, Knockout and Vue.js.
+A template pack containing ASP.NET Core SPA templates for Angular, Aurelia, React, Knockout and Vue.js. The templates are the [ASP.NET Core JavaScript Services templates](https://github.com/aspnet/JavaScriptServices)
 
 See the [change log](CHANGELOG.md) for changes and road map.
 
@@ -20,6 +20,8 @@ See the [change log](CHANGELOG.md) for changes and road map.
 - ASP.NET Core 1.1 with React
 - ASP.NET Core 1.1 with React+Redux
 - ASP.NET Core 1.1 with Vue.js
+
+They show up under ASP.NET Core templates in Visual Studio
 
 ![Project Dialog](art/project-dialog.png)
 
