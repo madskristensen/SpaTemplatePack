@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="4336beed-a389-4f86-9138-40d258e78ccf" Version="0.9" Language="en-US" Publisher="Mads Kristensen" />
+        <Identity Id="4336beed-a389-4f86-9138-40d258e78ccf" Version="0.9.3" Language="en-US" Publisher="Mads Kristensen" />
         <DisplayName>ASP.NET Core SPA Templates</DisplayName>
         <Description xml:space="preserve">A template pack containing ASP.NET Core SPA templates for Angular, React, Knockout and Vue.js.</Description>
         <MoreInfo>https://github.com/madskristensen/SpaTemplatePack</MoreInfo>
